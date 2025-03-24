@@ -8,6 +8,7 @@ For each category, *Added*, *Changed*, *Fixed* add new entries at the top!
 ## [Unreleased]
 
 - Adapt `slic` backends to new version with `mecall`
+- Unstable support for ESP32-C6
 
 ## [v2.1.1] - 2024-12-06
 
@@ -21,9 +22,6 @@ For each category, *Added*, *Changed*, *Fixed* add new entries at the top!
 
 - Fix interrupt handlers when targeting esp32c3 and using latest version of esp-hal
 - Do not limit async priority with `NVIC_PRIO_BITS` when targeting esp32c3
-### Added
-
-- Unstable support for ESP32-C6
 
 ## [v2.1.0] - 2024-02-27
 

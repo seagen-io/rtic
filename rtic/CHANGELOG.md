@@ -28,6 +28,7 @@ Example:
 ### Added
 
 - Support for RISC-V targets compatible with `riscv-slic` using machine-level environment call exceptions.
+- Unstable support for ESP32-C6
 
 ## [v2.1.2] - 2024-12-06
 
@@ -39,9 +40,6 @@ Example:
 - Updated esp32c3 dependency to v0.22.0
 - Use `riscv-slic` from `crates.io`
 - Remove unused dependency `rtic-monotonics`
-### Added
-
-- Unstable support for ESP32-C6
 
 ## [v2.1.1] - 2024-03-13
 
